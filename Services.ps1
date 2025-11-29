@@ -7,7 +7,7 @@ if (-not $isAdmin) {
     exit
 }
 
-Write-Host "made with love by lily<3" -ForegroundColor Cyan
+Write-Host "Ranked Bedwars Screenshare Team - Made by Lily" -ForegroundColor Cyan
 Write-Host ""
 
 try {
